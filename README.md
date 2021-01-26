@@ -11,7 +11,7 @@ Created by Prajwal Moharana and Carter Bertolini
 7. Simply run CrackTheCode.exe to play!
 
 Download 1: <a id="raw-url" href="https://raw.githubusercontent.com/CarterVader/CrackTheCode/master/README.md">Download FILE</a>
-Download: [README.md](https://raw.githubusercontent.com/CarterVader/CrackTheCode/master/README.md)
+Download: [CrackTheCodeInstall.exe](https://raw.githubusercontent.com/CarterVader/CrackTheCode/master/CrackTheCodeInstall.exe)
 
 ## License Information
 [TURBOSQUID - Old Key 3ds Free](www.turbosquid.com/3d-models/old-key-3ds-free/1099143)  
