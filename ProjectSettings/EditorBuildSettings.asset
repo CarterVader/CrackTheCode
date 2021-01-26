@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 70ac80f2466e5ee41ab7a5014efdd274
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 5faa1c024bb9ecd418a8feb2f53ceae3
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: 352076d2278f519449c6eafc7c5a044b
+  - enabled: 1
+    path: Assets/Scenes/Leader.unity
+    guid: f3203ec987eaada49b431d3e8d01b2d0
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: be74a99b0e7ad80458ecd86be94adc9e
+  - enabled: 1
+    path: Assets/Scenes/LosePage.unity
+    guid: 73cca6318e57f9b44a5d0220040bbf55
+  - enabled: 1
+    path: Assets/Scenes/ResetPage.unity
+    guid: 27535ada5a7aa4c42a2f53964ba0a950
+  - enabled: 1
+    path: Assets/Scenes/Leader 1.unity
+    guid: c84dc2a858f54d64db304a907d22683b
+  - enabled: 1
+    path: Assets/Scenes/Error.unity
+    guid: 2c9f1189ab39b5f488454780da9b93f6
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 7ecbcbcae6595e24a87a4b87f1f1f5ed,
+      type: 2}
