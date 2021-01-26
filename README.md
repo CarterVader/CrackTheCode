@@ -10,6 +10,7 @@ Created by Prajwal Moharana and Carter Bertolini
 6. The game is now installed, you can delete both LevelDataInstaller.exe and CrackTheCodeInstall.exe
 7. Simply run CrackTheCode.exe to play!
 
+Download 1: <a id="raw-url" href="https://raw.githubusercontent.com/CarterVader/CrackTheCode/master/README.md">Download FILE</a>
 Download: [README.md](https://raw.githubusercontent.com/CarterVader/CrackTheCode/master/README.md)
 
 ## License Information
