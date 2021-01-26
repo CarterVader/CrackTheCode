@@ -10,8 +10,7 @@ Created by Prajwal Moharana and Carter Bertolini
 6. The game is now installed, you can delete both LevelDataInstaller.exe and CrackTheCodeInstall.exe
 7. Simply run CrackTheCode.exe to play!
 
-Download 1: <a id="raw-url" href="https://raw.githubusercontent.com/CarterVader/CrackTheCode/master/README.md">Download FILE</a>
-Download: [CrackTheCodeInstall.exe](https://raw.githubusercontent.com/CarterVader/CrackTheCode/master/CrackTheCodeInstall.exe)
+Download: [CrackTheCodeInstall.exe](https://drive.google.com/file/d/10nI4luzNP-iJMOpckENcwI98H5P412br/view?usp=sharing)
 
 ## License Information
 [TURBOSQUID - Old Key 3ds Free](www.turbosquid.com/3d-models/old-key-3ds-free/1099143)  
