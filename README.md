@@ -1,6 +1,6 @@
 # CrackTheCode
 FBLA Computer Game Design and Simulation entry  
-Created by Prajwal Moharana and Carter Bertolini
+Created by Prajwal Moharana and Carter Bertolini using [Unity](https://unity.com/)
 
 ## Installation Instructions
 1. Follow the Google Drive link and download CrackTheCodeInstall.exe
