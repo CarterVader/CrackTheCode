@@ -117,6 +117,7 @@ public class LevelSelectionUI : MonoBehaviour
     //Opens leaderboard for current level
     public void OpenLeaderBoard()
     {
+        Levels.currentLevel = currentLevelIndex;
         SceneManager.LoadScene(8);
     }
 }
