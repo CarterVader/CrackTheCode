@@ -7,7 +7,7 @@ using UnityEngine;
 public static class LeaderBoard
 {
     //Array to store scores for each level
-    public static List<PlayerScore>[] scores = new List<PlayerScore>[2];
+    public static List<PlayerScore>[] scores = new List<PlayerScore>[3];
 
     //Path to file with scores
     public static string path;
